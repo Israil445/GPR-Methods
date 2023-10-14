@@ -35,7 +35,7 @@ function pre_r($array){
     }
 
     ?>
-    <form action="" method ="POST">
+    <form action="" method ="GET">
         <P>FirstName: <input type="text" name="firstname" vlaue=""></P>
         <P>LastName: <input type="text" name="lastname" vlaue=""></P>
         <input type="submit" name="submit" vlaue="Submit">
